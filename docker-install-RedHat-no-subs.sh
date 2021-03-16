@@ -40,11 +40,11 @@ error() {
 
 
 # installation steps
-printf "Apt-get update...\n"
+printf "Updating...\n"
 update
 step_done
 
-printf "Apt-get update...\n"
+printf "Updating...\n"
 install_pre
 step_done
 
