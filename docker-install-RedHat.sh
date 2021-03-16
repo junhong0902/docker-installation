@@ -43,7 +43,7 @@ error() {
 
 
 # installation steps
-printf "Apt-get update...\n"
+printf "Updating...\n"
 update
 step_done
 
